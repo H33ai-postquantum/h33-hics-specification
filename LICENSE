@@ -1,0 +1,14 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 H33.ai, Inc.
+
+This specification document is licensed under CC BY 4.0.
+You may share and adapt it with attribution.
+
+Full license: https://creativecommons.org/licenses/by/4.0/
+
+The HICS implementation (scoring engine, AST scanners, STARK proof
+generation, Dilithium signing infrastructure, CLI, API) is proprietary
+to H33.ai, Inc. and is NOT covered by this license.
+
+The HICS name and associated marks are trademarks of H33.ai, Inc.
